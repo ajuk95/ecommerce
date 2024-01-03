@@ -1,0 +1,4 @@
+Django
+Pillow
+beautifulsoup4
+requests
